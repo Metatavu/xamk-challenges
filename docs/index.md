@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-[Kubernetes guide]({% post_url /_posts/2010-07-21-name-of-post %})
+[Kubernetes guide]({% post_url ../_posts/2020-10-08-azure-kubernetes %})
 
