@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-[Kubernetes guide](https://github.com/Metatavu/xamk-challenges/edit/master/_posts/2020-10-08-azure-kubernetes.markdown)
+[Kubernetes guide]({% post_url ../_posts/2010-07-21-name-of-post %})
 
