@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-[Kubernetes guide]({% post_url 2020-10-08-azure-kubernetes %})
-[Kubernetes guide]({% post_url 2020-10-08-welcome-to-jekyll %})
+[Kubernetes guide]({% post_url 2020-10-08-azure-kubernetes.md %})
+[Kubernetes guide]({% post_url 2020-10-08-welcome-to-jekyll.md %})
