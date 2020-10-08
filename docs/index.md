@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-[Kubernetes guide]({% post_url 2020-10-08-azure-kubernetes %})
+({% post_url 2020-10-08-azure-kubernetes %})
