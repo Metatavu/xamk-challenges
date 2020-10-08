@@ -38,5 +38,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Links
 
-[Kubernetes guide]({% post_url 2020-10-08-azure-kubernetes.md %})
-[Kubernetes guide]({% post_url 2020-10-08-welcome-to-jekyll.md %})
+[Kubernetes guide]({% post_url 2020-10-08-azure-kubernetes %})
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
