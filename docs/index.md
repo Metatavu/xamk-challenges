@@ -1,18 +1,8 @@
-## XAMK kubernetes challenges
+## XAMK kubernetes challenges ![Image](media/metatavu-logo.png)
 
 You will find challenges and any supporting information on this Github Pages website or under the [XAMK challenges GitHub repository](https://github.com/Metatavu/xamk-challenges).
 
-<figure>
-   <a href="https://metatavu.fi">
-   <img src="https://github.com/Metatavu/xamk-challenges/blob/master/media/metatavu-logo.png" style="max-width: 200px;"
-      alt="Jekyll logo" />
-   </a>
-   <figcaption>This is the Jekyll logo</figcaption>
-</figure>
-
 ### Please check the following Posts. Hopefully you will find all that is needed there 😀:
-
-[Link](https://metatavu.fi) and ![Image](media/metatavu-logo.png)
 
 <ul>
   {% for post in site.posts %}
