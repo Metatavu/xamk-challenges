@@ -13,7 +13,7 @@ You will find challenges and any supporting information on this Github Pages web
 
 <ul>
   {% for post in site.posts %}
-    <li>-
+    <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
