@@ -1,6 +1,6 @@
 <header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
    <a href="https://metatavu.fi">
-   <img href="https://metatavu.fi" src="media/metatavu-logo.png" style="max-width: 100px;"
+   <img src="/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
    </a>
 </header>
@@ -23,7 +23,7 @@ You will find challenges and any supporting information on this Github Pages web
 
 In case if you have any questions during the event there are two ways to get help!
 
- ![Image](/docs/media/metatavu-logo.png)
+ ![Image](/media/metatavu-logo.png)
 
 1. Ask in our Slack channel -  [Slack link]().
 2. Participate in online meeting sessions held every ??Thursday at 12:00 in [Google meet]().
