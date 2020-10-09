@@ -1,10 +1,31 @@
-## Welcome to GitHub Pages
+## XAMK kubernetes challenges
 
-You can use the [editor on GitHub](https://github.com/Metatavu/xamk-challenges/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You will find challenges and any supporting information on this Github Pages website or under the [XAMK challenges GitHub repository](https://github.com/Metatavu/xamk-challenges).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<figure>
+   <a href="https://metatavu.fi">
+   <img src="/media/metatavu-logo.png" style="max-width: 200px;"
+      alt="Jekyll logo" />
+   </a>
+   <figcaption>This is the Jekyll logo</figcaption>
+</figure>
 
-### Markdown
+### Please check the following Posts. Hopefully you will find all that is needed there 😀:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Support
+
+In case if you have any questions during the event there are two ways to get help!
+
+1. Ask in our Slack channel -  [Slack link]().
+2. Participate in online meeting sessions held every ??Thursday at 12:00 in [Google meet]().
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
