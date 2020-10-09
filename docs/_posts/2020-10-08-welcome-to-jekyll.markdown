@@ -5,13 +5,6 @@ date:   2020-10-08 14:26:29 +0300
 categories: jekyll update
 ---
 
-<header style="margin-left: -140px; margin-top: -185px; padding-bottom: 140px;">
-   <a href="http://jekyllrb.com">
-   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
-      alt="Jekyll logo" />
-   </a>
-</header>
-
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
