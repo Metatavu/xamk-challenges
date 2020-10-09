@@ -32,7 +32,8 @@ To create an AKS cluster, complete the following steps:
     - **Primary node pool**: Select a VM **Node size** for the AKS nodes. The VM size *can't* be changed once an AKS cluster has been deployed. 
             - Select the number of nodes to deploy into the cluster. For this quickstart, set **Node count** to *1*. Node count *can* be adjusted after the cluster has been deployed.
     
-    ![Create AKS cluster - provide basic information](create-cluster-basics.png)
+    ![Create AKS cluster - provide basic information](/docs/_posts/post-media/create-cluster-basics.png)
+    ![Image](/docs/media/metatavu-logo.png)
 
     Select **Next: Scale** when complete.
 

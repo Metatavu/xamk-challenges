@@ -1,6 +1,6 @@
-<header>
+<header style="margin-right: 10vw;>
    <a href="http://jekyllrb.com">
-   <img src="media/metatavu-logo.png" style="max-width: 40px; margin-right: 10vw;"
+   <img src="media/metatavu-logo.png" style="max-width: 40px;"
       alt="Jekyll logo" />
    </a>
 </header>
@@ -24,8 +24,6 @@ You will find challenges and any supporting information on this Github Pages web
 In case if you have any questions during the event there are two ways to get help!
 
  ![Image](/docs/media/metatavu-logo.png)
-
- ![Image 2](/media/metatavu-logo.png)
 
 1. Ask in our Slack channel -  [Slack link]().
 2. Participate in online meeting sessions held every ??Thursday at 12:00 in [Google meet]().
