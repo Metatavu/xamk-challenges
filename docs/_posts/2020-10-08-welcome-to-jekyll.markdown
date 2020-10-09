@@ -7,7 +7,7 @@ categories: jekyll update
 
 <header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
    <a href="http://jekyllrb.com">
-   <img src="/media/metatavu-logo.png" style="max-width: 100px;"
+   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
    </a>
 </header>
