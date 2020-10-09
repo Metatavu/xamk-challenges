@@ -3,5 +3,5 @@ title: Kubernetes challenges XAMK
 header: /xamk-challenges/media/metatavu-logo.png
 twitter_username: Metatavu
 github_username:  Metatavu
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://metatavu.github.io/xamk-challenges/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/xamk-challenges" # the subpath of your site, e.g. /blog
+url: "https://metatavu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
