@@ -14,8 +14,6 @@ This quickstart assumes a basic understanding of Kubernetes concepts. For more i
 
 If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F) before you begin.
 
- ![Image](media/metatavu-logo.png)
-
 ## Sign in to Azure
 
 Sign in to the Azure portal at [https://portal.azure.com](https://portal.azure.com).
@@ -34,7 +32,7 @@ To create an AKS cluster, complete the following steps:
     - **Primary node pool**: Select a VM **Node size** for the AKS nodes. The VM size *can't* be changed once an AKS cluster has been deployed. 
             - Select the number of nodes to deploy into the cluster. For this quickstart, set **Node count** to *1*. Node count *can* be adjusted after the cluster has been deployed.
     
-    ![Create AKS cluster - provide basic information](~/media/create-cluster-basics.png)
+    ![Create AKS cluster - provide basic information](post-media/create-cluster-basics.png)
 
     Select **Next: Scale** when complete.
 
@@ -52,7 +50,7 @@ By default, *Basic* networking is used, and Azure Monitor for containers is enab
 
 It takes a few minutes to create the AKS cluster. When your deployment is complete, click **Go to resource**, or  browse to the AKS cluster resource group, such as *myResourceGroup*, and select the AKS resource, such as *myAKSCluster*. The AKS cluster dashboard is shown, as in this example:
 
-![Example AKS dashboard in the Azure portal](/../media/aks-portal-dashboard.png)
+![Example AKS dashboard in the Azure portal](post-media/aks-portal-dashboard.png)
 
 ## Connect to the cluster
 
@@ -60,7 +58,7 @@ To manage a Kubernetes cluster, you use [kubectl][kubectl], the Kubernetes comma
 
 Open Cloud Shell using the `>_` button on the top of the Azure portal.
 
-![Open the Azure Cloud Shell in the portal](../../media/aks-cloud-shell.png)
+![Open the Azure Cloud Shell in the portal](post-media/aks-cloud-shell.png)
 
 To configure `kubectl` to connect to your Kubernetes cluster, use the [az aks get-credentials][az-aks-get-credentials] command. This command downloads credentials and configures the Kubernetes CLI to use them. The following example gets credentials for the cluster name *myAKSCluster* in the resource group named *myResourceGroup*:
 
