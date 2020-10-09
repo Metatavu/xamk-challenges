@@ -5,6 +5,13 @@ date:   2020-10-08 14:41:29 +0300
 visible: 0
 ---
 
+<header style="margin-left: -140px; margin-top: -188px; position: absolute;">
+   <a href="http://jekyllrb.com">
+   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
+      alt="Jekyll logo" />
+   </a>
+</header>
+
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
 
 Azure Kubernetes Service (AKS) is a managed Kubernetes service that lets you quickly deploy and manage clusters. In this quickstart, you deploy an AKS cluster using the Azure portal.
