@@ -6,8 +6,8 @@ categories: jekyll update
 ---
 
 <header style="margin-left: -140px; margin-top: -188px; position: absolute;">
-   <a href="http://jekyllrb.com">
-   <img href="http://metatavu.com" src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
+   <a href="https://metatavu.com">
+   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
    </a>
 </header>
