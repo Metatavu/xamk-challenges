@@ -1,3 +1,5 @@
+ ![](media/metatavu-logo.png)
+
 ## XAMK kubernetes challenges
 
 You will find challenges and any supporting information on this Github Pages website or under the [XAMK challenges GitHub repository](https://github.com/Metatavu/xamk-challenges).
