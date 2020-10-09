@@ -12,7 +12,7 @@ You will find challenges and any supporting information on this Github Pages web
 
 ### Please check the following Posts. Hopefully you will find all that is needed there 😀:
 
-[Link](https://metatavu.fi) and ![Image](/media/metatavu-logo.png)
+[Link](https://metatavu.fi) and ![Image](../media/metatavu-logo.png)
 
 <ul>
   {% for post in site.posts %}
