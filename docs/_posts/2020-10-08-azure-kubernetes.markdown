@@ -3,6 +3,7 @@ layout: post
 title:  "Free azure account and first Kubernetes cluster"
 date:   2020-10-08 14:41:29 +0300
 categories: jekyll update
+image: ../media/metatavu-logo.png
 ---
 
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal

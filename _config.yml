@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# header: /docs/media/metatavu-logo.png
+header: /media/metatavu-logo.png
 title: Kubernetes challenges XAMK
 email: devs@metatavu.com
 description: >- # this means to ignore newlines until "baseurl:"
