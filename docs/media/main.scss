@@ -7,9 +7,9 @@ code,
 }
 
 .site-title::before {
-    content: url("/docs/media/metatavu-logo.png");
+    content: url("/media/metatavu-logo.png");
     display: inline-block;
     position: relative;
-    width: 37px;
-    top: 5px;
+    width: 32px;
+    top: 32px;
 }
