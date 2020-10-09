@@ -1,6 +1,8 @@
 ---
+layout: post
 title:  "Free azure account and first Kubernetes cluster"
 date:   2020-10-08 14:41:29 +0300
+visible: 0
 ---
 
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
