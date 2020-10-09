@@ -1,6 +1,6 @@
 <header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
    <a href="https://metatavu.fi">
-   <img src="media/metatavu-logo.png" style="max-width: 100px;"
+   <img href="https://metatavu.fi" src="media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
    </a>
 </header>
