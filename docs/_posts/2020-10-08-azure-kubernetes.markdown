@@ -4,7 +4,7 @@ title:  "Free azure account and first Kubernetes cluster"
 date:   2020-10-08 14:41:29 +0300
 categories: jekyll update
 ---
-This it post
+
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
 
 Azure Kubernetes Service (AKS) is a managed Kubernetes service that lets you quickly deploy and manage clusters. In this quickstart, you deploy an AKS cluster using the Azure portal.
