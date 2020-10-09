@@ -1,16 +1,16 @@
-<header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
-   <a href="http://jekyllrb.com">
-   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
-      alt="Jekyll logo" />
-   </a>
-</header>
-
 ---
 layout: post
 title:  "Free azure account and first Kubernetes cluster"
 date:   2020-10-08 14:41:29 +0300
 categories: jekyll update
 ---
+
+<header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
+   <a href="http://jekyllrb.com">
+   <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
+      alt="Jekyll logo" />
+   </a>
+</header>
 
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
 
