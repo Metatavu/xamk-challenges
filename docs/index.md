@@ -1,4 +1,4 @@
-<header style="margin-right: 10vw;>
+<header style="margin-right: 10vw;">
    <a href="http://jekyllrb.com">
    <img src="media/metatavu-logo.png" style="max-width: 40px;"
       alt="Jekyll logo" />
