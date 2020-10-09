@@ -39,4 +39,4 @@ However, Kubernetes relies on other projects to fully provide these orchestrated
 [Full article link]: (https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiQ0Kj6sKfsAhVR66QKHWIUAC8QFjAOegQIAhAC&url=https%3A%2F%2Fwww.redhat.com%2Fen%2Ftopics%2Fcontainers%2Fwhat-is-kubernetes&usg=AOvVaw05WamJQQhMVDq-aRklOUwc)
 
 
-### [Return to home page](/)
+### [Return to home page](/xamk-challenges)
