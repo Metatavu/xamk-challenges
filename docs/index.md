@@ -4,7 +4,7 @@ You will find challenges and any supporting information on this Github Pages web
 
 <figure>
    <a href="https://metatavu.fi">
-   <img src="/media/metatavu-logo.png" style="max-width: 200px;"
+   <img src="media/metatavu-logo.png" style="max-width: 200px;"
       alt="Jekyll logo" />
    </a>
    <figcaption>This is the Jekyll logo</figcaption>
