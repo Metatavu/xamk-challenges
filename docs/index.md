@@ -9,15 +9,7 @@
 
 You will find challenges and any supporting information on this Github Pages website or under the [XAMK challenges GitHub repository](https://github.com/Metatavu/xamk-challenges).
 
-### Please check the following Posts. Hopefully you will find all that is needed there 😀:
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+### Please check Posts section in the bottom of the page for challenge related information. Hopefully you will find all that is needed there 😀.
 
 ### Support
 
@@ -25,6 +17,8 @@ In case if you have any questions during the event there are two ways to get hel
 
 1. Ask in our Slack channel -  [Slack link]().
 2. Participate in online meeting sessions held every ??Thursday at 12:00 in [Google meet]().
+
+### Other information
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
