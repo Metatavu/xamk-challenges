@@ -5,7 +5,7 @@ date:   2020-10-08 14:41:29 +0300
 visible: 0
 ---
 
-<header style="margin-left: -140px; margin-top: -188px; position: absolute;">
+<header style="margin-top: -188px; position: absolute;">
    <a href="https://metatavu.fi">
    <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />

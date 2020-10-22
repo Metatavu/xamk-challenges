@@ -1,4 +1,4 @@
-<header style="margin-left: -140px; margin-top: -80px; padding-bottom: 50px;">
+<header style="margin-top: -80px; padding-bottom: 50px;">
    <a href="https://metatavu.fi">
    <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
