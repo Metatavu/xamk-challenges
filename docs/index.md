@@ -37,8 +37,8 @@ IT and software development students
 ```
 Online (Microsoft Teams & Discord/Slack)
 ```
-[Google meet link]()
-[Slack link]()
+### [Online meeting link]()
+### [Slack link]()
 
 ## **Registration**
 
@@ -81,7 +81,7 @@ There will be four tiers ranging from easy to very challenging. Each tier builds
 
 Working on the challenges requires basic programming skills, some knowledge of Azure services (e.g. databases, Kubernetes), and understanding on how to deploy software on it. However, the most important requirement is a curious mindset and the ability to learn and experiment.
 
-<span style="background-color: #FFFF00">some *Link to the challenges page here. Revealed on Monday 16.11 at 16.00.* text</span>
+<span style="background-color: #FFFF00">*Link to the challenges page here. Revealed on Monday 16.11 at 16.00.*</span>
 
 ## **Instructions**
 Below you will find some useful information to get you started and learn about the topics. 
@@ -96,36 +96,4 @@ In case you’ve got any questions, please contact Daniil by email or Slack.
 Daniil Smirnov 
 daniil.smirnov@metatavu.fi
 
-[Slack link here]()
-
-
-<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Metatavu/xamk-challenges/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
-
+##### [Slack link here]()
