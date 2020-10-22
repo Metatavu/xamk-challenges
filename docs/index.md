@@ -86,8 +86,8 @@ Working on the challenges requires basic programming skills, some knowledge of A
 ## **Instructions**
 Below you will find some useful information to get you started and learn about the topics. 
 
-[Link to Introduction to Kubernetes]({% posts/ 2020-10-08-azure-kubernetes %})
-[Link to Setting up Azure with student account and free credits]({% posts/2020-10-09-about-kubernetes.markdown %})
+[Link to Introduction to Kubernetes](posts/2020-10-08-azure-kubernetes)
+[Link to Setting up Azure with student account and free credits](posts/2020-10-09-about-kubernetes.markdown)
 
 ## **Contact**
 In case you’ve got any questions, please contact Daniil by email or Slack.
