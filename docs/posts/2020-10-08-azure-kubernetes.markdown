@@ -12,7 +12,19 @@ visible: 0
    </a>
 </header>
 
-# Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
+# XAMK instructions for setting Azure free credit account:
+
+**To activate the Azure student account you just need a Xamk user account (@edu.xamk.fi). I’ve used these instructions for my students:
+Browse to https://aka.ms/devtoolsforteaching
+Sign in with your Xamk account and accept the agreements (only needed on first login).
+Xamk students are eligible for $100 credit from Azure for Students. Click the "Claim your Azure credit now" button and follow the instructions to activate your student subscription. Fill in your name, phone number and Xamk email address and accept any agreements.
+At any time, you can check your available credits in https://www.microsoftazuresponsorships.com**
+
+### **⬆️ Please be sure to use instructions above which are provided by XAMK ⬆️**
+
+# _Instructions below are from the Azure documentation and are here just for reference, dont rely on those_
+
+## Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
 
 Azure Kubernetes Service (AKS) is a managed Kubernetes service that lets you quickly deploy and manage clusters. In this quickstart, you deploy an AKS cluster using the Azure portal.
 
