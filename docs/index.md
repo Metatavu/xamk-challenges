@@ -18,29 +18,29 @@ However, devops needs know-how and understanding of modern infrastructure, techn
 Now you have the perfect opportunity to learn and try out Azure, Kubernetes, and other devops tools and methods. Oh, and there will be prizes for those brave who will survive the challenges.
 
 <!-- You will find challenges and any supporting information on this Github Pages website or under the [XAMK challenges GitHub repository](https://github.com/Metatavu/xamk-challenges). -->
-
 <p>&nbsp;</p>
+
 ### **What**
 <p>&nbsp;</p>
 ```
 A devops challenge
 ```
 
-<p>&nbsp;</p>
+
 ### **For who**
 <p>&nbsp;</p>
 ```
 IT and software development students
 ```
 
-<p>&nbsp;</p>
+
 ### **When**
 <p>&nbsp;</p>
 ```
 16. - 27.11.2020 
 ```
 
-<p>&nbsp;</p>
+
 ### **Where**
 <p>&nbsp;</p>
 ```
@@ -50,8 +50,8 @@ Online (Microsoft Teams & Discord/Slack)
 
 ### [Online meeting link]()
 ### [Slack link]()
-
 <p>&nbsp;</p>
+
 ## **Registration**
 <p>&nbsp;</p>
 
@@ -60,14 +60,15 @@ The event is free but requires a registration. You can register as a small team 
 The registration ends on Thursday 12.11.2020 at midnight.
 
 [**Register here**](https://forms.gle/z4SDwZiFKHswmQ19A)
-
 <p>&nbsp;</p>
+
 ## **Schedule**
 <p>&nbsp;</p>
 
 
 **Opening webinar 16.11.2020**
 <p>&nbsp;</p>
+
 - 16.30		Opening
 - 16.45		Introduction to DevOps and Kubernetes
 - 17.30		Break
@@ -80,6 +81,7 @@ After the event there will be mentoring and Q&A on Slack during 18.30 - 20.00 to
 
 **Working on the challenges 16. - 27.11.2020**
 <p>&nbsp;</p>
+
 Each team can organize how they will work
 - Xamk provides a Slack environment for team collaboration
 - Metatavu hosts a dedicated Q&A and mentoring sessions on xxx and xxx
@@ -89,12 +91,13 @@ Each team can organize how they will work
 
 **Closing webinar 2.12.2020**
 <p>&nbsp;</p>
+
 - 16.30		Opening
 - 16.35		Feedback, discussion & comments
 - 17.00		Announcing the winner(s)
 - 17.15		Closing
-
 <p>&nbsp;</p>
+
 ## **Challenges**
 <p>&nbsp;</p>
 
@@ -105,8 +108,8 @@ There will be four tiers ranging from easy to very challenging. Each tier builds
 Working on the challenges requires basic programming skills, some knowledge of Azure services (e.g. databases, Kubernetes), and understanding on how to deploy software on it. However, the most important requirement is a curious mindset and the ability to learn and experiment.
 
 <span style="background-color: #FFFF00">*Link to the challenges page here. Revealed on Monday 16.11 at 16.00.*</span>
-
 <p>&nbsp;</p>
+
 ## **Instructions**
 <p>&nbsp;</p>
 
@@ -116,8 +119,8 @@ Below you will find some useful information to get you started and learn about t
 #### [Link to Introduction to Kubernetes](posts/2020-10-09-about-kubernetes.markdown)
 
 #### [Link to Setting up Azure with student account and free credits](posts/2020-10-08-azure-kubernetes.markdown)
-
 <p>&nbsp;</p>
+
 ## **Contact**
 <p>&nbsp;</p>
 
