@@ -12,7 +12,9 @@ visible: 0
    </a>
 </header>
 
+
 # XAMK instructions for setting Azure free credit account:
+
 
 **To activate the Azure student account you just need a Xamk user account (@edu.xamk.fi). I’ve used these instructions for my students:**
 **Browse to** https://aka.ms/devtoolsforteaching
@@ -20,7 +22,9 @@ visible: 0
 **Xamk students are eligible for $100 credit from Azure for Students. Click the "Claim your Azure credit now" button and follow the instructions to activate your student subscription. Fill in your name, phone number and** **Xamk email address and accept any agreements.**
 **At any time, you can check your available credits in** https://www.microsoftazuresponsorships.com
 
+
 ### **⬆️ Please be sure to use instructions above which are provided by XAMK ⬆️**
+
 
 # _Instructions below are from the Azure documentation and are here just for reference, dont rely on those_
 
