@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Kubernetes!"
+title:  "Introduction to Kubernetes"
 date:   2020-10-09 14:26:29 +0300
 categories: jekyll update
 ---

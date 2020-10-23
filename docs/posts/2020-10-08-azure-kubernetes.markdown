@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Free azure account and Kubernetes cluster"
+title:  "Free Azure account and Kubernetes cluster"
 date:   2020-10-08 14:41:29 +0300
 visible: 0
 ---
