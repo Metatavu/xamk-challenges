@@ -55,6 +55,17 @@ Online (Microsoft Teams & Discord/Slack)
 ## **Registration**
 
 
+
+
+
+
+
+
+
+
+
+
+
 The event is free but requires a registration. You can register as a small team (2-3 people) or as an individual. We’ll try to do some matchmaking if you’d like to be a part of a team but don’t have one. However, we cannot conjure up team members.
 
 The registration ends on Thursday 12.11.2020 at midnight.
