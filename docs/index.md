@@ -63,7 +63,6 @@ The registration ends on Thursday 12.11.2020 at midnight.
 
 
 **Opening webinar 16.11.2020**
-<p>&nbsp;</p>
 
 - 16.30		Opening
 - 16.45		Introduction to DevOps and Kubernetes
@@ -76,7 +75,6 @@ After the event there will be mentoring and Q&A on Slack during 18.30 - 20.00 to
 
 
 **Working on the challenges 16. - 27.11.2020**
-<p>&nbsp;</p>
 
 Each team can organize how they will work
 - Xamk provides a Slack environment for team collaboration
@@ -86,7 +84,6 @@ Each team can organize how they will work
 
 
 **Closing webinar 2.12.2020**
-<p>&nbsp;</p>
 
 - 16.30		Opening
 - 16.35		Feedback, discussion & comments
