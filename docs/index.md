@@ -21,28 +21,24 @@ Now you have the perfect opportunity to learn and try out Azure, Kubernetes, and
 <p>&nbsp;</p>
 
 ### **What**
-<p>&nbsp;</p>
 ```
 A devops challenge
 ```
 
 
 ### **For who**
-<p>&nbsp;</p>
 ```
 IT and software development students
 ```
 
 
 ### **When**
-<p>&nbsp;</p>
 ```
 16. - 27.11.2020 
 ```
 
 
 ### **Where**
-<p>&nbsp;</p>
 ```
 Online (Microsoft Teams & Discord/Slack)
 ```
