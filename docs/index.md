@@ -72,16 +72,16 @@ The registration ends on Thursday 12.11.2020 at midnight.
 - 18.30		Closing
 
 After the event there will be mentoring and Q&A on Slack during 18.30 - 20.00 to help all teams to get started with Azure and the challenges.
-
+<p></p>
 
 **Working on the challenges 16. - 27.11.2020**
 
 Each team can organize how they will work
 - Xamk provides a Slack environment for team collaboration
 - Metatavu hosts a dedicated Q&A and mentoring sessions on xxx and xxx
-- Questions will be answered as possible on Slack by Metatavu and/or Xamk
+- Questions will be answered as soon as possible on Slack by Metatavu and/or Xamk
 - Slack can be used for open discussions by all teams
-
+<p></p>
 
 **Closing webinar 2.12.2020**
 
