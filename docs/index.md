@@ -57,7 +57,7 @@ The registration ends on Thursday 12.11.2020 at midnight.
 <p>&nbsp;</p>
 
 ## **Schedule**
-<p style="height: 10px">&nbsp;</p>
+<p style="height: 2px">&nbsp;</p>
 
 **Opening webinar 16.11.2020**
 
