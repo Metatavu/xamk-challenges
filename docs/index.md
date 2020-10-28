@@ -43,8 +43,8 @@ Online (Microsoft Teams & Discord/Slack)
 ```
 
 
-### [Online meeting link]()
-### [Slack link]()
+### [Online meeting link](){:target="_blank"}
+### [Slack link](){:target="_blank"}
 <p>&nbsp;</p>
 
 ## **Registration**
@@ -53,7 +53,7 @@ The event is free but requires a registration. You can register as a small team 
 
 The registration ends on Thursday 12.11.2020 at midnight.
 
-[**Register here**](https://forms.gle/z4SDwZiFKHswmQ19A)
+[**Register here**](https://forms.gle/z4SDwZiFKHswmQ19A){:target="_blank"}
 <p>&nbsp;</p>
 
 ## **Schedule**
@@ -116,4 +116,4 @@ In case you’ve got any questions, please contact Daniil by email or Slack.
 Daniil Smirnov 
 daniil.smirnov@metatavu.fi
 
-##### [Slack link here]()
+##### [Slack link here](){:target="_blank"}
