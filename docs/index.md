@@ -7,7 +7,6 @@
 
 ### **Metatavu presents**
 # **a DevOps challenge**
-<p>&nbsp;</p>
 
 This challenge (well, it’s more like a set of challenges) is a hackathon-like experience where students work in small teams to explore and learn modern devops technologies and compete in solving some wicked challenges we’ve prepared for you.
 
@@ -49,7 +48,6 @@ Online (Microsoft Teams & Discord/Slack)
 <p>&nbsp;</p>
 
 ## **Registration**
-<p>&nbsp;</p>
 
 The event is free but requires a registration. You can register as a small team (2-3 people) or as an individual. We’ll try to do some matchmaking if you’d like to be a part of a team but don’t have one. However, we cannot conjure up team members.
 
@@ -59,7 +57,6 @@ The registration ends on Thursday 12.11.2020 at midnight.
 <p>&nbsp;</p>
 
 ## **Schedule**
-<p>&nbsp;</p>
 
 
 **Opening webinar 16.11.2020**
@@ -72,7 +69,7 @@ The registration ends on Thursday 12.11.2020 at midnight.
 - 18.30		Closing
 
 After the event there will be mentoring and Q&A on Slack during 18.30 - 20.00 to help all teams to get started with Azure and the challenges.
-<p></p>
+<p>&nbsp;</p>
 
 **Working on the challenges 16. - 27.11.2020**
 
@@ -81,7 +78,7 @@ Each team can organize how they will work
 - Metatavu hosts a dedicated Q&A and mentoring sessions on xxx and xxx
 - Questions will be answered as soon as possible on Slack by Metatavu and/or Xamk
 - Slack can be used for open discussions by all teams
-<p></p>
+<p>&nbsp;</p>
 
 **Closing webinar 2.12.2020**
 
@@ -92,7 +89,6 @@ Each team can organize how they will work
 <p>&nbsp;</p>
 
 ## **Challenges**
-<p>&nbsp;</p>
 
 The challenges will be revealed on Monday 16.11 at 16.00. They will focus on devops, Azure, and Kubernetes. Stay tuned.
 
@@ -100,11 +96,10 @@ There will be four tiers ranging from easy to very challenging. Each tier builds
 
 Working on the challenges requires basic programming skills, some knowledge of Azure services (e.g. databases, Kubernetes), and understanding on how to deploy software on it. However, the most important requirement is a curious mindset and the ability to learn and experiment.
 
-<span style="background-color: #FFFF00">*Link to the challenges page here. Revealed on Monday 16.11 at 16.00.*</span>
+<span>*Link to the challenges page here. Revealed on Monday 16.11 at 16.00.*</span>
 <p>&nbsp;</p>
 
 ## **Instructions**
-<p>&nbsp;</p>
 
 Below you will find some useful information to get you started and learn about the topics. 
 
@@ -115,7 +110,6 @@ Below you will find some useful information to get you started and learn about t
 <p>&nbsp;</p>
 
 ## **Contact**
-<p>&nbsp;</p>
 
 In case you’ve got any questions, please contact Daniil by email or Slack.
 
