@@ -75,7 +75,7 @@ After the event there will be mentoring and Q&A on Slack during 18.30 - 20.00 to
 
 Each team can organize how they will work
 - Xamk provides a Slack environment for team collaboration
-- Metatavu hosts a dedicated Q&A and mentoring sessions on xxx and xxx
+- Metatavu hosts a dedicated Q&A and mentoring sessions on **19.11.2020** and **24.11.2020** at **18:00** Finnish time
 - Questions will be answered as soon as possible on Slack by Metatavu and/or Xamk
 - Slack can be used for open discussions by all teams
 <p style="height: 13px">&nbsp;</p>
