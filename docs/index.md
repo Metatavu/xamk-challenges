@@ -5,6 +5,8 @@
    </a>
 </header>
 
+##### Info: updated Slack and Event links
+
 ### **Metatavu presents**
 # **a DevOps challenge**
 
@@ -43,8 +45,8 @@ Online (Microsoft Teams & Discord/Slack)
 ```
 
 
-### [Online meeting link](){:target="_blank"}
-### [Slack link](){:target="_blank"}
+### [Online meeting link](https://teams.microsoft.com/l/meetup-join/19%3aeb65911507ae4b488037da126cd386cf%40thread.tacv2/1605096050477?context=%7b%22Tid%22%3a%2236c8d6bc-e998-4190-a69f-c13424063463%22%2c%22Oid%22%3a%22139985b0-2a7b-47f4-94d3-c4050722c4ef%22%7d){:target="_blank"}
+### [Slack link](https://join.slack.com/share/zt-j234w3yd-9nApyqr3jdP7M84TJWv9jQ){:target="_blank"}
 <p>&nbsp;</p>
 
 ## **Registration**
@@ -116,4 +118,4 @@ In case you’ve got any questions, please contact Daniil by email or Slack.
 Daniil Smirnov 
 daniil.smirnov@metatavu.fi
 
-##### [Slack link here](){:target="_blank"}
+##### [Slack link here](https://join.slack.com/share/zt-j234w3yd-9nApyqr3jdP7M84TJWv9jQ){:target="_blank"}
