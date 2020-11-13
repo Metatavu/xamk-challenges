@@ -5,7 +5,7 @@
    </a>
 </header>
 
-##### Info: updated Slack and Event links
+#### __13.11.2020 -  updated Slack and Event links. Please join the Slack channel!__
 
 ### **Metatavu presents**
 # **a DevOps challenge**
