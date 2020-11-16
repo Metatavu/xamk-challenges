@@ -100,7 +100,7 @@ Working on the challenges requires basic programming skills, some knowledge of A
 
 #### [Basic level challenge instructions](posts/2020-10-12-basic-level-challenges.markdown)
 
-#### [Medium challenge instructions](posts/2020-10-12-medium-challenges.markdown)
+#### [Medium challenge instructions](posts/2020-10-12-medium-level-challenges.markdown)
 
 #### [Upper–medium level challenge instructions](posts/2020-10-12-upper-medium-level-challenges.markdown)
 
