@@ -5,7 +5,7 @@
    </a>
 </header>
 
-#### __13.11.2020 -  updated Slack and Event links. Please join the Slack channel!__
+### *13.11.2020 -  updated Slack and Event links. Please join the Slack channel!*
 
 ### **Metatavu presents**
 # **a DevOps challenge**
@@ -109,6 +109,16 @@ Below you will find some useful information to get you started and learn about t
 #### [Link to Introduction to Kubernetes](posts/2020-10-09-about-kubernetes.markdown)
 
 #### [Link to Setting up Azure with student account and free credits](posts/2020-10-08-azure-kubernetes.markdown)
+<p>&nbsp;</p>
+
+## **Judgement and prizes**
+
+### Please meet the challeges judges:
+
+- ##### Antti Leppä,<br/>CTO, Metatavu Oy<br/><br/>Technology enthusiast who loves everything from software architectural design to DevOps
+
+- ##### Daniil Smirnov,<br/>CTO, Metatavu Oy<br/><br/>Technology enthusiast who loves everything from software architectural design to DevOps
+
 <p>&nbsp;</p>
 
 ## **Contact**
