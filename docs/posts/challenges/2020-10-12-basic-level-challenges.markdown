@@ -5,7 +5,7 @@ date:   2020-10-12 14:26:29 +0300
 categories: jekyll update
 ---
 
-<header style="margin-top: -186px; padding-bottom: 160px; margin-left: 400px;">
+<header style="margin-top: -295px; padding-bottom: 160px; margin-left: 400px;">
    <a href="https://metatavu.fi">
    <img src="/xamk-challenges/media/metatavu-logo.png" style="max-width: 100px;"
       alt="Jekyll logo" />
