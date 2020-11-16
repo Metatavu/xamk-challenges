@@ -119,6 +119,10 @@ Below you will find some useful information to get you started and learn about t
 
 - Daniil Smirnov,<br/>Developer, Metatavu Oy<br/><br/>Software engineer with focus on DevOps. Project manager and technical lead responsibilities
 
+### Prizes:
+
+*Information will be revealed soon...*
+
 <p>&nbsp;</p>
 
 ## **Contact**
