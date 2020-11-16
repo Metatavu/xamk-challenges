@@ -98,13 +98,13 @@ There will be four tiers ranging from easy to very challenging. Each tier builds
 
 Working on the challenges requires basic programming skills, some knowledge of Azure services (e.g. databases, Kubernetes), and understanding on how to deploy software on it. However, the most important requirement is a curious mindset and the ability to learn and experiment.
 
-#### [Basic level challenge instructions](posts/challenges/2020-10-12-basic-level-challenges.markdown)
+#### [Basic level challenge instructions](posts/2020-10-12-basic-level-challenges.markdown)
 
-#### [Medium challenge instructions](posts/challenges/2020-10-12-basic-medium-challenges.markdown)
+#### [Medium challenge instructions](posts/2020-10-12-basic-medium-challenges.markdown)
 
-#### [Upper–medium level challenge instructions](posts/challenges/2020-10-12-upper-medium-level-challenges.markdown)
+#### [Upper–medium level challenge instructions](posts/2020-10-12-upper-medium-level-challenges.markdown)
 
-#### [High challenge instructions](posts/challenges/2020-10-12-high-level-challenges.markdown)
+#### [High challenge instructions](posts/2020-10-12-high-level-challenges.markdown)
 <p>&nbsp;</p>
 
 ## **Instructions**
