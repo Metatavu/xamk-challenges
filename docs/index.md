@@ -115,9 +115,9 @@ Below you will find some useful information to get you started and learn about t
 
 ### Please meet the challeges judges:
 
-##### - Antti Leppä,<br/>CTO, Metatavu Oy<br/><br/>Technology enthusiast who loves everything from software architectural design to DevOps
+- Antti Leppä,<br/>CTO, Metatavu Oy<br/><br/>Technology enthusiast who loves everything from software architectural design to DevOps
 
-##### - Daniil Smirnov,<br/>CTO, Metatavu Oy<br/><br/>Technology enthusiast who loves everything from software architectural design to DevOps
+- Daniil Smirnov,<br/>Developer, Metatavu Oy<br/><br/>Software engineer with focus on DevOps. Project manager and technical lead responsibilities
 
 <p>&nbsp;</p>
 
