@@ -113,7 +113,7 @@ Below you will find some useful information to get you started and learn about t
 
 ## **Judgement and prizes**
 
-### Please meet the challeges judges:
+### Please meet the challenge judges:
 
 - **Matti Juutilainen,<br/>Head of IT Degree Programme, Principal Lecturer, PhD<br/>**<br/>25 years of working and teaching experience in networking, server and security related topics
 
