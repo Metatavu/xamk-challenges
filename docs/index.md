@@ -115,15 +115,29 @@ Below you will find some useful information to get you started and learn about t
 
 ### Please meet the challenge judges:
 
-- **Matti Juutilainen,<br/>Head of IT Degree Programme, Principal Lecturer, PhD<br/>**<br/>25 years of working and teaching experience in networking, server and security related topics
+- **Matti Juutilainen,<br/>Head of IT Degree Programme, Principal Lecturer, PhD<br/>**25 years of working and teaching experience in networking, server and security related topics
 
-- **Antti Leppä,<br/>CTO, Metatavu Oy<br/>**<br/>Technology enthusiast who loves everything from software architectural design to DevOps
+- **Antti Leppä,<br/>CTO, Metatavu Oy<br/>**Technology enthusiast who loves everything from software architectural design to DevOps
 
-- **Daniil Smirnov,<br/>Developer, Metatavu Oy<br/>**<br/>Software engineer with focus on DevOps. Project manager and technical lead responsibilities
+- **Daniil Smirnov,<br/>Developer, Metatavu Oy<br/>**Software engineer with focus on DevOps. Project manager and technical lead responsibilities
 
 ### Prizes:
 
-*Information will be revealed soon...*
+The top three teams are awarded based on their success and dedication in solving the challenges. The three judges (introduced below) will decide the winners and announce them in the closing webinar.
+
+The primary criteria will be the completion of the challenges. In case of a tie the judges will consider the use of best practices and the quality of the solution. The main judge has the final say on the winners.
+
+**Please, note the deadline 27.11.2020 16.00.**
+
+**1st place**
+Each team member will get a gift voucher worth of 100 € to either Verkkokauppa.com or Amazon depending on their choice. 
+
+**2nd place**
+Each team member will get a gift voucher worth of 50 € to either Verkkokauppa.com or Amazon depending on their choice.
+
+**3rd place**
+Each team member will get a gift voucher worth of 20 € to either Verkkokauppa.com or Amazon depending on their choice.
+
 
 <p>&nbsp;</p>
 
