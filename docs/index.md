@@ -115,6 +115,8 @@ Below you will find some useful information to get you started and learn about t
 
 ### Please meet the challeges judges:
 
+- **Matti Juutilainen,<br/>Head of IT Degree Programme, Principal Lecturer, PhD<br/>**<br/>25 years of working and teaching experience in networking, server and security related topics
+
 - **Antti Leppä,<br/>CTO, Metatavu Oy<br/>**<br/>Technology enthusiast who loves everything from software architectural design to DevOps
 
 - **Daniil Smirnov,<br/>Developer, Metatavu Oy<br/>**<br/>Software engineer with focus on DevOps. Project manager and technical lead responsibilities
