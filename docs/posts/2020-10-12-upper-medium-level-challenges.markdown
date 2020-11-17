@@ -26,6 +26,8 @@ categories: jekyll update
 
 - Deploy a [FoldingAtHome](https://foldingathome.org/) image instead of a  previous webpage image
 
+- ```Note: FoldingAtHome allows you to change identity and use some team name. It is up to you if you want to use your team name for folding. But it could be a good added fun factor to see to overall folding score per team in the end!```
+
 - Make sure Deployment name containins your team's name
 
 - Image repository reference is ```ghcr.io/linuxserver/foldingathome```
