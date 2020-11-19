@@ -22,7 +22,7 @@ categories: jekyll update
 
 - Configure a Horizontal Pod automatic scaling for your Kubernetes cluster (containing your team's name)
 
-- Use pod limits. At max these are **0.25 cpus** and maximum allowed number of pods **4**
+- Use pod limits. It is recomended to not exceed **500 microcpus** and use maximum allowed number of pods **4**. But you are free to experiment with different values. Remember to not spend all the Azure credit 😀
 
 - Deploy a [FoldingAtHome](https://foldingathome.org/) image instead of a  previous webpage image
 
