@@ -5,7 +5,7 @@
    </a>
 </header>
 
-### Registration link - https://forms.gle/b8MCtZgeMHwkgJR76
+### [Closing webinar link](https://teams.microsoft.com/l/meetup-join/19%3aeb65911507ae4b488037da126cd386cf%40thread.tacv2/1606726747447?context=%7b%22Tid%22%3a%2236c8d6bc-e998-4190-a69f-c13424063463%22%2c%22Oid%22%3a%22139985b0-2a7b-47f4-94d3-c4050722c4ef%22%7d)
 
 ### **Metatavu presents**
 # **a DevOps challenge**
